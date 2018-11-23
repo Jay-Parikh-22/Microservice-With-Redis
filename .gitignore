@@ -1,3 +1,6 @@
 AccountService/target/
 AccountService/.settings/
 AccountService/.classpath
+User-Service/.classpath
+User-Service/.settings/
+User-Service/target/
